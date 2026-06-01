@@ -1,17 +1,26 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![renjiexu](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Renjie-98)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a Research Assistant in the Department of Physics and Astronomy at University of Padova.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: renjiexu123@gmail.com
+
+#### Academic Appointment
+
+Research Assistant, Physics, University of Padova, 2026.09—\
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+Visiting Student, Physics, University of Padova, 2024.10—2026.08\
+Ph.D. Degree Management science and engineering, National University of Defense Technology, 2023.09—2026.06\
+Exchange Student, Business Administration, Technical University of Munich, 2023.04—2023.08
+M.E. Degree, Mechanical Engineering, Beijing Institute of Technology, 2020.09—2023.06.\
+B.Sc. Degree, Industrial Engineering, Shehezi University, 2016.09—2020.06.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+Complex System; Statistical Physics, Resilience; System Engineering, 
 
