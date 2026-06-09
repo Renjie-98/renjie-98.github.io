@@ -19,7 +19,15 @@ Lab: https://manliodedomenico.com
 
 #### Research Interests
 
-Complex System; Resilience; Statistical Physics;  System Engineering;
+Complex System; Resilience; Statistical Physics;  Systems Engineering;
+
+#### Hobby
+
+basketball; Strategy games (e.g., Ultimate General: Civil War, Command \& Conquer: Red Alert 2); Murder Mystery Game;
+
+
+
+
 
 
 
