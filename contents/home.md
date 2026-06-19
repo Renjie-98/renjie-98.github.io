@@ -6,8 +6,6 @@ I am currently a Research Assistant in the Department of Physics and Astronomy a
 
 Email: renjiexu123@gmail.com
 
-Lab: https://manliodedomenico.com
-
 #### Academic Appointment
 
 * Research Assistant, Theoretical Physics, University of Padua, 2026.09—
