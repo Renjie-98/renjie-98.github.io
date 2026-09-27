@@ -1,10 +1,10 @@
-I am currently a Research Assistant in the Department of Physics and Astronomy at the University of Padua, working under the supervision of Professor Manlio De Domenico (Lead of <a href="https://manliodedomenico.com/" target="\_blank">CoMuNe Lab</a>). My research aims to develop theories and computational methods for better understanding, anticipating, and mitigating the behavior of complex systems under perturbation.
+I am currently an Research Fellow (Borsa di Ricerca) in the Department of Physics and Astronomy at the University of Padua, working under the supervision of Professor Manlio De Domenico (Lead of <a href="https://manliodedomenico.com/" target="\_blank">CoMuNe Lab</a>). My research aims to develop theories and computational methods for better understanding, anticipating, and mitigating the behavior of complex systems under perturbation.
 
 
 
 #### Contact
 
-Email: renjiexu123@gmail.com
+Email: renjie.xu@unipd.it
 
 #### Academic Appointment
 
