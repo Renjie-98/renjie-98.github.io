@@ -8,7 +8,7 @@ Email: renjiexu123@gmail.com
 
 #### Academic Appointment
 
-* Research Assistant, Theoretical Physics, University of Padua, 2026.09—
+* Research Fellow (Borsa di Ricerca), Theoretical Physics, University of Padua, 2026.09—
 * Visiting Scholar (PhD), Theoretical Physics, University of Padua, 2024.10—2026.08.
 * Ph.D. Degree, Management Science and Engineering, National University of Defense Technology, 2023.09—2026.05.	
 * Exchange Student, Operations Management, Technical University of Munich, 2023.04—2023.08.
