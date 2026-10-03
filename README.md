@@ -1,12 +1,12 @@
-# Xu Renjie Academic Website
+# Xu Renjie Academic Website — GitHub Desktop update
 
-This repository package contains the updated bilingual academic homepage. The root `index.html` is the page served by GitHub Pages. It contains the current English/Chinese interface and its page styles and imagery.
+This package updates the root `index.html` used by GitHub Pages. The name and clickable email in the header use the same font size.
 
-## Update your existing repository with GitHub Desktop
+## Apply the update
 
-1. Download this ZIP and extract it to a temporary folder.
-2. Copy the extracted items (`contents`, `static`, `.gitignore`, `index.html`, `LICENSE`, and this `README.md`) into your local `renjie-98.github.io` repository folder. Do not replace or delete the hidden `.git` folder. If Windows asks, replace the existing files.
-3. Open GitHub Desktop and select `renjie-98.github.io`. Review the changes; the updated homepage is `index.html`.
-4. Enter a summary such as `Update academic homepage`, commit to `main`, then click **Push origin**.
+1. In GitHub Desktop, choose **Repository → Show in Explorer**. This opens the exact local repository folder currently selected.
+2. Extract this ZIP into that folder. The ZIP entries are at the repository root (not inside an extra wrapper folder). Choose **Replace files in destination** if asked. Do not remove the hidden `.git` folder.
+3. Return to GitHub Desktop. You should see changes, including `index.html`. If it still says `0 changed files`, check that you extracted into the folder opened by **Show in Explorer**.
+4. Commit the changes to `main`, then click **Push origin**.
 
-The `contents/` and `static/` folders are retained to match the existing repository layout. The updated `index.html` is self-contained and does not depend on those legacy template files.
+The `contents/` and `static/` directories are included to match the existing repository layout. The current homepage is self-contained in `index.html`.
